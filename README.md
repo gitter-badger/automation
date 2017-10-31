@@ -1,6 +1,6 @@
 # Node.js Automation Team
 
-[![Join the chat at https://gitter.im/nodejs/automation](https://badges.gitter.im/nodejs/automation.svg)](https://gitter.im/nodejs/automation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/nodejs/automation](https://badges.gitter.im/nodejs/automation.svg)](https://gitter.im/nodejs/automation)
 
 We are the @nodejs/automation team.
 
